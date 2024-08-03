@@ -1,0 +1,1 @@
+24-08-03.18:40:56.614 [main            ] WARN  ClassPathMapperScanner - No MyBatis mapper was found in '[org.kc]' package. Please check your configuration.

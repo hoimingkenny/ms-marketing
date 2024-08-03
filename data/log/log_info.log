@@ -1,0 +1,12 @@
+24-08-03.18:40:55.814 [main            ] INFO  Application            - Starting Application using Java 1.8.0_421 on Kennnys-MacBook-Pro.local with PID 98937 (/Users/kennycheng/projects/xfg-frame-archetype-lite/ms-marketing/ms-marketing-app/target/classes started by kennycheng in /Users/kennycheng/projects/xfg-frame-archetype-lite/ms-marketing)
+24-08-03.18:40:55.817 [main            ] INFO  Application            - The following 1 profile is active: "dev"
+24-08-03.18:40:56.614 [main            ] WARN  ClassPathMapperScanner - No MyBatis mapper was found in '[org.kc]' package. Please check your configuration.
+24-08-03.18:40:56.975 [main            ] INFO  TomcatWebServer        - Tomcat initialized with port(s): 8091 (http)
+24-08-03.18:40:56.982 [main            ] INFO  Http11NioProtocol      - Initializing ProtocolHandler ["http-nio-8091"]
+24-08-03.18:40:56.983 [main            ] INFO  StandardService        - Starting service [Tomcat]
+24-08-03.18:40:56.983 [main            ] INFO  StandardEngine         - Starting Servlet engine: [Apache Tomcat/9.0.75]
+24-08-03.18:40:57.103 [main            ] INFO  [/]                    - Initializing Spring embedded WebApplicationContext
+24-08-03.18:40:57.103 [main            ] INFO  ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1245 ms
+24-08-03.18:40:57.698 [main            ] INFO  Http11NioProtocol      - Starting ProtocolHandler ["http-nio-8091"]
+24-08-03.18:40:57.721 [main            ] INFO  TomcatWebServer        - Tomcat started on port(s): 8091 (http) with context path ''
+24-08-03.18:40:57.731 [main            ] INFO  Application            - Started Application in 2.466 seconds (JVM running for 3.055)
